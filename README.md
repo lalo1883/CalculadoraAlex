@@ -11,3 +11,6 @@ A proyect created as practice for JS
 This proyect consists of a calculator made from HTML, CSS and Javascript
 ## How does the calculator work?
 THe display of the calculator consists of an input field, and the buttons change the value of it so that after clicking the "=" button the content of the input gets evaluated and the desired operation gets made.
+
+
+Link: https://youtu.be/cGgLHJGyS34?si=O5UXeeqKEyKuZFDM
